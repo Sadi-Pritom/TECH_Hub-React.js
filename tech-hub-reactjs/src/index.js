@@ -21,6 +21,7 @@ ReactDOM.render(
     <Header></Header>
       <Routes>
         {/* <Route path="/" element={<App/>}></Route> */}
+        {/* <Route path="/" element={<App/>}></Route> */}
         <Route path="/" element={<Home/>}></Route>
         <Route path="/contact" element={<Contact/>}></Route>
         <Route path="/event" element={<Event/>}></Route>
